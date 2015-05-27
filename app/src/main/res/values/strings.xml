@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Link Refresh</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="server_select">Please Select Which Server Needs to be Refreshed</string>
+    <string name="rfsh_wkly">Refresh Weekly</string>
+    <string name="rfsh_dly">Refresh Daily</string>
+</resources>
